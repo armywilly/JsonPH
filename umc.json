@@ -1,9 +1,9 @@
 {
-success: true,
-message: null,
-data: {
-    current_page: 1,
-    data: [
+    success: true,
+    message: null,
+    data: {
+        current_page: 1,
+        data: [
         {
             id: 2018,
             user_id: 107,
@@ -450,7 +450,7 @@ data: {
                 is_publish: 1,
                 image_group: "product"
                 }
-        },
+        }
     ],
     first_page_url: "http://v2-api.moladin.com/api/umc/public?page=1",
     from: 1,
